@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeTask</string>
+    <string name="name">Name: %1$s</string>
+    <string name="species">Species: %1$s</string>
+    <string name="type">Type: %1$s</string>
+    <string name="unknown">Unknown</string>
+    <string name="status">Status: %1$s</string>
+</resources>
